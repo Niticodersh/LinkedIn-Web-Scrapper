@@ -21,7 +21,7 @@ def process_file(file_contents, username, password):
     return all_profiles_data
 
 def main():
-    st.title("LinkedIn Web Scraping with Streamlit")
+    st.title("LinkedIn Web Scraping")
     process = 0
     st.sidebar.header("Enter your LinkedIn Credentials")
     username = st.sidebar.text_input("Username")
