@@ -1,4 +1,4 @@
-selenium
-beautifulsoup4
-streamlit
-lxml
+beautifulsoup4==4.12.3
+selenium==4.21.0
+streamlit==1.30.0
+webdriver_manager==4.0.1
